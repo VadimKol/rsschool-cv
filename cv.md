@@ -1,7 +1,7 @@
 1. Vadim Kolymbet
 2. **Email:** 3t0n@inbox.ru(preferred), 3t0nvadim@gmail.com  
     **Discord:** @vadimkolymbet  
-    **Github:** @VadimKol
+    **Github:** [VadimKol](https://github.com/VadimKol)
 3. After 2 years of work, I decided to move next (and I got some experience for that). I liked working with web developers, I liked their statements of work, so I decided to be like them. I started learning web technologies in 2019 but abandoned it because was problems with health. I started again with motivation to summarize all knowledge I have to work in that profession.
 4. **Actual:** SQL(TSQL), HTML5(PUG), CSS3(SCSS)  
     **Learning:** Javascript, GIT  
@@ -20,7 +20,7 @@
         return value.toString().split('').map(a=>Math.pow(a,value.toString().length)).reduce((a,b)=>a+b) == value ? true : false;
     }
     ```
-6. Bank(PRBB - <http://prbb.ru>) - 2 years as TSQL developer + client side on PowerScript, CBS(core banking system) 2014-2015  
+6. Bank - [PRBB](http://prbb.ru) - 2 years as TSQL developer + client side on PowerScript, CBS(core banking system) 2014-2015  
     <https://vadimkol.github.io> (few landings with Gulp:Pug+SCSS, Gulp:SCSS and pure HTML+CSS with a little bit js)
 7. 2013 Saratov Chernyshevsky State University / Faculty of Computer Science and Information Technologies / Department of Computer Security and Cryptography Theory  
     Course from <https://frontendblok.com/> at 2019 to upgrade and practise HTML and CSS knowledge
