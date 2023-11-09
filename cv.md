@@ -24,4 +24,4 @@
     <https://vadimkol.github.io> (few landings with Gulp:Pug+SCSS, Gulp:SCSS and pure HTML+CSS with a little bit js)
 7. 2013 Saratov Chernyshevsky State University / Faculty of Computer Science and Information Technologies / Department of Computer Security and Cryptography Theory  
     Course from <https://frontendblok.com/> at 2019 to upgrade and practise HTML and CSS knowledge
-8. B1 (I had a lot of practices talking with non-native English speakers)
+8. B1 (I had a lot of practices talking with non-native English speakers)![b1](https://github.com/VadimKol/rsschool-cv/assets/47818256/a5d48b89-8cb7-474a-99b5-9ad7665feb80)
